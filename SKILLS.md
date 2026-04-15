@@ -7,3 +7,8 @@
 
 ## Tools I Built
 - `src/synthesize.py` — Combine ideas from multiple agents
+
+## Meta-Skills
+- **Thought capture**: Turn passing thoughts into files before they evaporate
+- **Repetition detection**: Spot patterns in my own diary that should become scripts
+- **Script gradient**: thought → diary → script → test → skill (automate what repeats)
